@@ -1,13 +1,18 @@
-
-.section-bottom {
-    display: flex;
-
+#button {
+    background-color: black;
+    color: white;
 }
 
-.main {
-    display: flex;
-    min-height: 100vh;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+.left-box {
+    background-color: #FFC0CB;
+    color: black;
+}
+
+.right-box {
+    background-color: rgba(255,192,203, 0.4);
+    color: black;
+}
+
+a {
+    color: black;
 }
