@@ -1,5 +1,5 @@
+# Dzień 3
 
-# Dzień 1
 ## Materiały
 1. https://www.w3schools.com/tags/tag_comment.asp -> 
    tutaj możesz sobie przejrzeć wszystkie tagi HTML (taki to np. <p> i <h1>, 
