@@ -1,13 +1,34 @@
+.main {
+    height: 100vh;
+    width: 100vw;
+}
 
 .section-bottom {
     display: flex;
-
 }
 
-.main {
+.bottom-section {
     display: flex;
-    min-height: 100vh;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+}
+
+#button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+}
+
+.left-box {
+    background-color: #FFC0CB;
+    color: black;
+}
+
+.right-box {
+    background-color: rgba(255,192,203, 0.4);
+    color: black;
+}
+
+a {
+    color: black;
 }

@@ -5,6 +5,9 @@
 #button {
     background-color: black;
     color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
 }
 
 .left-box {
