@@ -1,3 +1,7 @@
+body {
+    font-size: 'Roboto';
+}
+
 .main {
     height: 100vh;
     width: 100vw;
