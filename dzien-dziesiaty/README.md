@@ -16,6 +16,6 @@ Pamiętasz jak wspomniałyśmy o tym, żebyś wkleiła do swojego pliku nasza st
 
 3. Dodaj je w odpowiednim miejscu w plku index.css. Pamiętaj, że musisz to zrobić na klasie tego głównego diva na Twojej stronie. 
 
-4. Na koniec zapoznaj się z własnością css `font` czyli np. font-family, font-size, dodaj `font-size: Roboto` (albo inną jeśli chcesz)  do tagu `body` Podpowiadamy, ze
-będzie to wyglądać tak:  `body { font-size: 'Roboto' }`
+4. Na koniec zapoznaj się z własnością css `font` czyli np. font-family, font-size, dodaj `font-family: Arial` (albo inną jeśli chcesz)  do tagu `body` Podpowiadamy, ze
+będzie to wyglądać tak:  `body { font-family: Arial }`
 
