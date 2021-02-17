@@ -2,7 +2,7 @@
 
 ## Materiały
 1. https://www.w3schools.com/tags/tag_comment.asp -> 
-   tutaj możesz sobie przejrzeć wszystkie tagi HTML (taki to np. <p> i <h1>, 
+   tutaj możesz sobie przejrzeć wszystkie tagi HTML (taki to np. `<p>` i `<h1></h1>`, 
    których używałaś w poprzednich zadaniach). Nie przejmuj się teraz, że jest ich tak dużo. 
    Nie musisz uczyć się ich wszystkich, po prostu dla ciekawości możesz sobie przejrzeć i zobaczyć 
    jak wiele mamy możliwości.
@@ -17,15 +17,15 @@
 5. Dzisiaj zajmiemy się tylko pierwszym, białym boxem.
 6. Żeby łatwiej zwizualizować sobie znaczniki, których będziesz potrzebować w białym boxie, możesz rozrysować je sobie na kartce. Pewnie widzisz, że będą to 3 różne rodzaje napisów. 
    Zauważ, że pierwszy napis jest dużo większy niż pozostałe, i niewątpliwie będzie jakimś nagłówkiem. W html mamy kilka rodzajów nagłówków: 
-   https://www.w3schools.com/tags/tag_hn.asp Mają one hierarchię i jeśli używamy na stronie kilku to wykorzystujemy je kolejno, zaczynając od <h1> . 
+   https://www.w3schools.com/tags/tag_hn.asp Mają one hierarchię i jeśli używamy na stronie kilku to wykorzystujemy je kolejno, zaczynając od `<h1>`. 
    Podobnie sytuacja ma się w przypadku drugiego napisu. Tutaj również musisz użyć znacznika nagłówka. Ostatni z napisów to zwykły tekst na stronie. 
    Zastanów się, jakiego znacznika użyjesz w tym przypadku https://www.w3schools.com/tags/tag_p.asp
 
 ----- 
 
-Ważne: Być może w materiałach znalazłaś już znacznik <div>. W praktyce <div> odzwierciedla właśnie jeden box / jeden klocek lego :) widoczny na stronie. Pamiętaj więc, że wszystko, co znajduje się w białym boxie, powinno być umieszczone właśnie wewnątrz tego znacznika. Taki porządek w kodzie pomoże Ci później w stylowaniu, ułożeniu elementów na stronie i wielu innych rzeczach, ale o tym w kolejnych lekcjach :)
+Ważne: Być może w materiałach znalazłaś już znacznik `<div>`. W praktyce <div> odzwierciedla właśnie jeden box / jeden klocek lego :) widoczny na stronie. Pamiętaj więc, że wszystko, co znajduje się w białym boxie, powinno być umieszczone właśnie wewnątrz tego znacznika. Taki porządek w kodzie pomoże Ci później w stylowaniu, ułożeniu elementów na stronie i wielu innych rzeczach, ale o tym w kolejnych lekcjach :)
 
-7. Dodaj znaczniki (z odpowiednim tekstem w środku!) w odpowiedniej kolejności w swoim pliku .html, który utworzyłaś w poprzednim zadaniu (pamiętaj, że powinny znaleźć się one wewnątrz znacznika <body>, tak jak testowany wcześniej znacznik <p> - pamiętasz tą strukturę?).
+7. Dodaj znaczniki (z odpowiednim tekstem w środku!) w odpowiedniej kolejności w swoim pliku .html, który utworzyłaś w poprzednim zadaniu (pamiętaj, że powinny znaleźć się one wewnątrz znacznika `<body>`, tak jak testowany wcześniej znacznik `<p>` - pamiętasz tą strukturę?).
 8. Otwórz swoją stronę w przeglądarce i zobacz efekty :) Tak, to nie wygląda jeszcze tak jak na załączonym designie, ale spokojnie, będziemy nad tym pracować.
 9. Teraz jako ćwiczenie spróbuj zakomentować jedną linijkę kodu https://www.w3schools.com/tags/tag_comment.asp i zobacz, co się stanie (pewnie domyślasz się, że nie zobaczysz na ekranie zakomentowanego fragmentu kodu. A teraz odkomentuj i ponownie przetestuj. 
 
