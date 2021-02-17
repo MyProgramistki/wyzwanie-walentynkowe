@@ -8,9 +8,19 @@
 
 Dzisiaj będziemy się wgryzać nieco bardziej w cssowe selektory.
 
-1. Korzystając z podanych materiałów, zapoznaj się z pojęciem ‘class’ oraz ‘id’. Ważne, abyś zrozumiała, po co one są, czym się różnią, oraz jak - na prostym przykładzie - ich użyć.
-W swojej strukturze HTML dodaj klasę do każdego z z divow Pamiętaj o tym, aby Twoja klasa miała dobrą, zrozumiałą dla Ciebie nazwę (może to być np “ content”, “main”, “container” ‘light-pink’ oraz ‘dark-pink’. Dodaj również atrybut id do przycisku (<button>) widocznego stronie.
-2. A teraz gdy już dodałaś atrybuty class i id ostyluj te elementy w następujący sposób
+1. Korzystając z podanych materiałów, zapoznaj się z pojęciem ‘class’ oraz ‘id’. 
+   Ważne, abyś zrozumiała, po co one są, czym się różnią, oraz jak - na prostym przykładzie - ich użyć.
+
+W swojej strukturze HTML dodaj najpierw klasę do każdego z divów.
+Pamiętaj o tym, aby Twoja klasa miała dobrą, zrozumiałą dla Ciebie nazwę (może to być np 
+`class="content"`, 
+`class="main"`, 
+`class="container"` 
+`class="light-pink"` 
+`class="dark-pink"`. 
+
+Dodaj również atrybut id do przycisku (<button>) widocznego stronie.
+2. A teraz gdy już dodałaś atrybuty `class` i `id` ostyluj te elementy w następujący sposób:
    - ciemnoróżowy div:
         color:  white
         background-color: #FFC0CB
@@ -25,4 +35,5 @@ W swojej strukturze HTML dodaj klasę do każdego z z divow Pamiętaj o tym, aby
         height: 40px
    - link czyli <a>
         color: black
-3. Jeśli szybko udało Ci się ukończyć to zadanie możesz pobawić się z innymi sektorami, opierając się o który artykuł znajdziesz w poniższych materiałach 
+3. Jeśli szybko udało Ci się ukończyć to zadanie możesz pobawić się z innymi selektorami, opierając się o artykuł, 
+   który znajdziesz w materiałach:
