@@ -14,7 +14,7 @@ Dzisiaj nadal będziemy bawić się z flexem :)
 
 Potrzebujemy, aby nasz container znalazł się na środku strony.
 
-1. Najpierw zastanów się jak możesz użyć css-flexbox, aby div wewnętrzny (nie ten pierwszy pod body, tylko ten drugi, który opakowuje dwie sekccje)
+1. Najpierw zastanów się jak możesz użyć css-flexbox, aby div wewnętrzny (nie ten pierwszy pod body, tylko ten drugi, który opakowuje dwie sekcje, czyli nasz "content-container")
 znalazł się na środku. Przypomnij sobie czym byl `flex-container`, `flex-item` oraz `display:flex` a następnie właściwie użyj tych wartości.
 2. Jesli szybko uporałaś się z zadaniem zagłęb się dołączone materiały i poeksperymentuj :) 
 
